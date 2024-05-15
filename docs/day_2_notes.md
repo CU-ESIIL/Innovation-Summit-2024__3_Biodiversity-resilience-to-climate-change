@@ -41,4 +41,4 @@ Funding opportunities:
 ## Parking lot
 
 1. Do we want to pull trait info (species means) from a database or do we want to find datasets with these traits and quantify from that. This relates to the functional resilience.
-2. 
+2. LNO synthesis grouup: if the working group's charge was to work with LTER sites (PIs IMs) to put data into ecocomDP and then use the data to answer good synthesis questions for a paper thats good motivation and a method.
