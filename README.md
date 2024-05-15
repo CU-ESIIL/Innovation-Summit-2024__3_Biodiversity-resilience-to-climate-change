@@ -20,8 +20,8 @@ Our project aims to leverage long-term ecological data to better understand how 
 - Eric Sokol
 - Trifosa Simamora
 - Thilina Surasinge
-- Andrew Quitmeyer
-- [Link to more detailed bios or profiles if available and desired.]
+- Andrew Quitmeyer: Director, [Digital Naturalism Labs](https://www.dinalab.net/), Gamboa, Panama. Build open source tools for field biologists.
+
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
