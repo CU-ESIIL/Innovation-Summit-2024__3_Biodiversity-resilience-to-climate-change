@@ -31,9 +31,9 @@ Day 2 report-back questions are about the team *process*. We are interested in y
 2. **What’s one thing you would change?**
    
 3. **Did your group ever have an “ah-ha” moment?  What led up to that moment?**
-   * Converging on our question yesterday was an "ah ha" moment. We also got a lot of traction when we started thinking about what our long-term goal(s) should be and identifying RFPs and funding helped us set up short-term goals. 
-4. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
-   * No groan zone, made constructive progress throughout! It helped that we kept finding things to do and work on. Getting into the data and getting our hands dirty was helpful. Everyone was able to share their expertise. 
+  * Converging on our question yesterday was an "ah ha" moment. We also got a lot of traction when we started thinking about what our long-term goal(s) should be and identifying RFPs and funding helped us set up short-term goals. 
+5. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
+  * No groan zone, made constructive progress throughout! It helped that we kept finding things to do and work on. Getting into the data and getting our hands dirty was helpful. Everyone was able to share their expertise. 
 
 **************************************************************
 
