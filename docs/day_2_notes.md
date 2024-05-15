@@ -17,6 +17,7 @@
     - ecocomDP workshop is in the works, may focus on traits?
     - Maybe we want to do a proposal - ESIIL WGs, [LTER Synthesis group](https://lternet.edu/rfp-2024/), ULTRA-data, SNAPP project
 
+
 Deliverables:
 
     * Adding LTER, LTAR, NEON to ecocomDP
@@ -37,6 +38,15 @@ Funding opportunities:
     * [CO-WY](https://www.co-wyengine.org/)
     * [Powell Ctr @USGS](https://www.usgs.gov/centers/john-wesley-powell-center-for-analysis-and-synthesis)
     * [SNAPP Partnership](https://snappartnership.net/)
+
+## Afternoon
+
+Got Andy onboarded to R
+Started a one-pager
+Began looking at data sources and developing hypotheses
+
+
+
 
 ## Parking lot
 
