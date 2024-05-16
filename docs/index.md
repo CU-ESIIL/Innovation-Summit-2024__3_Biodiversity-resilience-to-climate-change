@@ -4,6 +4,8 @@
 
 **Project Title: Blip Hunterz**
 
+[Presentation](https://docs.google.com/presentation/d/1LPJUvmWBSLU5qyfaJVbn79pPDJAXgBMcKxNk6fTjSoQ/edit#slide=id.g27166f385cc_2_0)
+
 Question: **In what ways can monitoring and decision-making enhance biodiversity resilience to climate change?**
 Specifically: How can we quantify biodiversity resilience to extreme events/changing climate? E.g., using what metrics, looking at different events, locations, management strategies.
 Potential follow up Q: How is resilience impacted by restoration efforts following disturbance?
