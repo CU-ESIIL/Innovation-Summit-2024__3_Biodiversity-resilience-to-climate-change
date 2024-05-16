@@ -27,13 +27,13 @@ Use the gradient of agreement (Kaner 20214) to make decisions as a team.
 Day 2 report-back questions are about the team *process*. We are interested in your team’s unique experience. Below are some prompts you might consider. You don't need to address all of them - choose which ones you want to present. Please limit your reflection to 2-3 mins.  
 
 1. **What worked well for your team?**
-   Respectful listening across members, laying out groundwork for long term goals first, which then directed our work for the day
+   * Respectful listening across members, laying out groundwork for long term goals first, which then directed our work for the day. Took into consideration what everyone in the group expected/ needed/ wanted from this work.
 2. **What’s one thing you would change?**
    
 3. **Did your group ever have an “ah-ha” moment?  What led up to that moment?**
-   Converging on our question yesterday was an "ah ha" moment
-4. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
-   No groan zone, made constructive progress throughout!
+  * Converging on our question yesterday was an "ah ha" moment. We also got a lot of traction when we started thinking about what our long-term goal(s) should be and identifying RFPs and funding helped us set up short-term goals. 
+5. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
+  * No groan zone, made constructive progress throughout! It helped that we kept finding things to do and work on. Getting into the data and getting our hands dirty was helpful. Everyone was able to share their expertise. 
 
 **************************************************************
 
