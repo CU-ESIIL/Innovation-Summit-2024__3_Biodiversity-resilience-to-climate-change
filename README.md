@@ -18,7 +18,7 @@ Our project aims to leverage long-term ecological data to better understand how 
 - Jen Kovacs: Associate Professor of Biology, Agnes Scott College, Evolutionary Ecologist, read more about my work [here](https://jkovacs.agnesscott.org/)
 - Greg Maurer: Environmental data scientist & data manager, New Mexico State University. [more here](https://greg.pronghorns.net)
 - Julia Portmann: Data research associate, Yale University Map of Life.
-- Eric Sokol
+- Eric Sokol: Quantitative Ecologist at the National Ecological Observatory Network [NEON](https://www.neonscience.org/)
 - Trifosa Simamora
 - Thilina Surasinge
 - Andrew Quitmeyer: Director, [Digital Naturalism Labs](https://www.dinalab.net/), Gamboa, Panama. Build open source tools for field biologists.
