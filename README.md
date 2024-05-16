@@ -11,6 +11,7 @@ Our project aims to leverage long-term ecological data to better understand how 
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+- [ESIIL Meeting Report out Presentation](https://docs.google.com/presentation/d/1LPJUvmWBSLU5qyfaJVbn79pPDJAXgBMcKxNk6fTjSoQ/edit?usp=sharing)
 
 
 ## Group Members
@@ -30,6 +31,9 @@ Our project aims to leverage long-term ecological data to better understand how 
 
 ## Meeting Notes and Agendas
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
+- [Day 2 notes](./docs/day_2_notes.md)
+- [Day 3 notes](./docs/day_3_notes.md)
+
 
 ## Contributing to This Repository
 - Contributions from all group members are welcome.
