@@ -44,8 +44,7 @@ Funding opportunities:
 Got Andy onboarded to R
 Started a one-pager
 Began looking at data sources and developing hypotheses
-
-
+We are learning ecocomDP based on [this tutorial](https://www.neonscience.org/resources/learning-hub/tutorials/neon-biodiversity-ecocomdp-cyverse)
 
 
 ## Parking lot
